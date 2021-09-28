@@ -26,7 +26,6 @@ Hi kh-cho-ascentko! You've successfully authenticated, but GitHub does not provi
 
 ```shell
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-ssh-keygen -t rsa -b 4096 -C "chozo99@gmail.com"
 ```
 
 ### ssh config
