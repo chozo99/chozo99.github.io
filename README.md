@@ -31,9 +31,9 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ### ssh config
 
 ```txt
-Host github.com
+Host github-chozo99.com
     HostName github.com
-    User chozo99-01
+    User chozo99
     IdentityFile ~/.ssh/chozo99_rsa
 Host github.com
     HostName github.com
