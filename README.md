@@ -3,6 +3,7 @@
 ## github.io
 
 * <https://dreamgonfly.github.io/blog/jekyll-remote-theme/>
+  * <https://github.com/just-the-docs/just-the-docs>
 
 ## github: Key is already in use
 
