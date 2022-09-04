@@ -5,7 +5,7 @@
 Jekyll theme
 
 * <https://dreamgonfly.github.io/blog/jekyll-remote-theme/>
-* <https://github.com/pmarsceill/just-the-docs>
+  * <https://github.com/just-the-docs/just-the-docs>
 
 ## github: Key is already in use
 
@@ -34,9 +34,9 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ### ssh config
 
 ```txt
-Host github.com
+Host github-chozo99.com
     HostName github.com
-    User chozo99-01
+    User chozo99
     IdentityFile ~/.ssh/chozo99_rsa
 Host github.com
     HostName github.com
