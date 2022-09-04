@@ -2,7 +2,10 @@
 
 ## github.io
 
+Jekyll theme
+
 * <https://dreamgonfly.github.io/blog/jekyll-remote-theme/>
+* <https://github.com/pmarsceill/just-the-docs>
 
 ## github: Key is already in use
 
