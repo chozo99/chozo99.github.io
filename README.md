@@ -48,10 +48,6 @@ Host github.com
 
 ```shell
 git remote remove origin
-git remote add origin git@github.com:chozo99/chozo99.github.io.git
-
-```
-
-```shell
+git remote add origin git@github-chozo99.com:chozo99/chozo99.github.io.git
 git branch --set-upstream-to=origin/main main
 ```
