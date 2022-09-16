@@ -57,5 +57,7 @@ git branch --set-upstream-to=origin/main main
 <https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Formatting_using_TeX>
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+
 $$a^2 + b^2 = c^2$$
+
 $$x_{n} = x_{n-1} + n$$
