@@ -6,6 +6,8 @@ Jekyll theme
 
 * <https://dreamgonfly.github.io/blog/jekyll-remote-theme/>
   * <https://github.com/just-the-docs/just-the-docs>
+  * <https://github.com/sighingnow/jekyll-gitbook>
+  * <https://jekyllrb.com/docs/themes/>
 
 ## github: Key is already in use
 
