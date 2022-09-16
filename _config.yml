@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           chozo99
-email:            xxx@gmail.com
-description: >
-  Build Jekyll site with the GitBook style.
+title:            chozo99
+longtitle:        chozo99 test
+# author:           chozo99
+# email:            xxx@gmail.com
+# description: >
+#   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
