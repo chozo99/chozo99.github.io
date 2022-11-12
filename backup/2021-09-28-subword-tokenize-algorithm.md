@@ -26,3 +26,6 @@ BPE 와 동일한데 문자 단위가 아니라 byte 기준
 
 BPE 는 고빈도 문자를 병합 하지만
 wordpiece 는 가능도를가 높은 문자를 병합한다.
+
+<https://github.com/SKTBrain/KoBERT>
+Natural language inference (NLI)
